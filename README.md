@@ -1,5 +1,10 @@
 # Text based Emotion Recognition across BERT Family and LSTM
 
+## Instructions on README
+
+With your submission, please include any presentation materials (slides, notebooks, videos, etc.) and a zipped project directory containing all code and materials necessary to use, produce, or interact with your project, potentially including a thorough README document describing how your code runs and should be engaged. Note: for full credit, your project materials and README should be of sufficient organization and detail so as to be taken up for continued development or analysis by someone other than yourself---for example, by your instructor. Additionally, your README document should highlight any challenges—experienced or upcoming—with the project's development, and consequently, any perceived limitations. The README should be a plain text file that potentially includes markdown, etc., for presentation on, e.g., github, Kaggle, or Jupyter notebooks—please don't use MS word for your README documents!
+
+
 
 
 ### Description of project description sections
