@@ -17,9 +17,9 @@ We plan to use a dataset similar to the one discussed in the paper. It consists 
 5 - surprise  
 
 Link: https://huggingface.co/datasets/dair-ai/emotion  
-4. __Neural methodology__: ??
-5. __Baselines__: We'll use a previous generation state-of-the-art model, LSTM as our baseline.
-6. __Evaluation__: We will compute the R, F1 and P score of each model for each emotion category because these metrics are the golden standards for classification task. In the meanwhile, we may also compare models' trainig time to rank their efficiancy.
+4. __Neural methodology__: ??  
+5. __Baselines__: We'll use a previous generation state-of-the-art model, LSTM as our baseline.  
+6. __Evaluation__: We will compute the R, F1 and P score of each model for each emotion category because these metrics are the golden standards for classification task. In the meanwhile, we may also compare models' trainig time to rank their efficiancy.  
 
 
 
