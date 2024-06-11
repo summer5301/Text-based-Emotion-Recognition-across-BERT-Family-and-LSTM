@@ -20,6 +20,7 @@ We plan to use a dataset similar to the one discussed in the paper. It consists 
 5 - surprise  
 
 Link: https://huggingface.co/datasets/dair-ai/emotion  
+
 4. __Neural methodology__: We will download these four models and their respective tokenizers through their huggingface transformer packages. Our data will be pre-processed, tokenized and batched for training and validation. For the model fine-tuning part, we aim to use the same hyperparameters found in the paper to ensure that all model architecture is similar upon assessment. 
 
 1. __Baselines__: We'll use a previous generation state-of-the-art model, LSTM with our own hyperparameters as our baseline.  
