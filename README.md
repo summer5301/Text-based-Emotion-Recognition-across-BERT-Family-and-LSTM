@@ -40,4 +40,14 @@ Media Technology and Information Processing (ICCWAMTIP)
 
 * The paper discusses the significance of text-based emotion recognition in the context of the growing number of social media users and the need for more fine-grained methods of user profiling. It highlights the limitations of existing techniques and introduces the concept of transformers, specifically the BERT model, as a breakthrough in addressing these limitations. The paper also introduces other transformer models, including RoBERTa, DistilBERT, and XLNet, which were developed to mitigate certain issues associated with BERT. It positions the comparative analysis of these models as a key contribution to the field of NLP research.
 
-* 
+## Limitations
+
+During the development of this project, we encountered 2 key challenges and limitations:
+
+- The dataset we used is more unbalanced than the ISEAR dataset which may skew results
+- Computational resources were limited in training these models, especially XLNET given its complexity, which is why we switched to a more simpler model trained instead from the embeddings of the XLNET tokenizer
+
+# Further Exploration
+
+This project is designed to be a starting point for further analysis and development to assess the validity of using transformer based models to predict emotional characteristics gathered from text. Feel free to use the code and documentation to expand or modify the project as needed. By using this project, you agree to follow the access rights and terms of service laid out by the HugginFace API. We encourage you to review their official documentation and guidelines for comprehensive details on data usage and licensing.
+
